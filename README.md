@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there! 👋🏻
 
+I'm a Front-end Developer from Brazil.
+
+Currently open to work.
+
+👨🏻‍💻 HTML | CSS | React.js
+
+📫 How to reach me: [angelo.chagas@live.com](mailto:angelo.chagas@live.com)
 <!--
 **eldeno/eldeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
