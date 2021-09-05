@@ -7,6 +7,12 @@ Currently open to work.
 👨🏻‍💻 HTML | CSS | React.js
 
 📫 How to reach me: [angelo.chagas@live.com](mailto:angelo.chagas@live.com)
+
+
+[![Eldeno's GitHub stats](https://github-readme-stats.vercel.app/api?username=eldeno&count_private=true$show_icons=true&theme=dracula)](https://github.com/eldeno/github-readme-stats)
+
+
+
 <!--
 **eldeno/eldeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
