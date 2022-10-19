@@ -4,7 +4,7 @@ I'm a Front-end Developer from Brazil.
 
 👨🏻‍💻 React
 
-📫 Contact: [angelo.chagas@live.com](mailto:angelo.chagas@live.com)
+📫 Contact: [eldeno.github.io](https://eldeno.github.io/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eldeno&layout=compact&theme=github_dark)](https://github.com/eldeno/github-readme-stats)
 
