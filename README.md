@@ -8,9 +8,9 @@ I'm a Front-end Developer from Brazil.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelochagas/)
 <br /><br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eldeno&layout=compact&theme=github_dark)](https://github.com/eldeno/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eldeno&layout=compact&theme=rose_pine)](https://github.com/eldeno/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eldeno&theme=github_dark&show_icons=true)](https://github.com/eldeno/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eldeno&theme=rose_pine&show_icons=true)](https://github.com/eldeno/github-readme-stats)
 <br /><br />
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
